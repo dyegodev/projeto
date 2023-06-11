@@ -1,0 +1,12 @@
+/* consulta clientes */
+.dashboard-cliente-container {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.dashboard-cliente-container th{
+    width: 25%;
+}
+
+.dashboard-cliente-container form{
+    display: inline-block;
+}
